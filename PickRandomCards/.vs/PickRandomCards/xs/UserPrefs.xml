@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{1D4FADCE-E8A2-4A86-9409-2AB843119BEF}|Default">
+  <MonoDevelop.Ide.ItemProperties.PickRandomCards PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PickRandomCards/CardPicker.cs">
+    <Files>
+      <File FileName="PickRandomCards/Program.cs" Line="9" Column="30" />
+      <File FileName="PickRandomCards/CardPicker.cs" Line="12" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PickRandomCards" expanded="True">
+            <Node name="PickRandomCards" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

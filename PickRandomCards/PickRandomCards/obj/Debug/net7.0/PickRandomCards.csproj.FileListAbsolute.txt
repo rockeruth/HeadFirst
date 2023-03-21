@@ -1,0 +1,15 @@
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/obj/Debug/net7.0/PickRandomCards.csproj.AssemblyReference.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/obj/Debug/net7.0/PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/obj/Debug/net7.0/PickRandomCards.AssemblyInfoInputs.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/obj/Debug/net7.0/PickRandomCards.AssemblyInfo.cs
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/obj/Debug/net7.0/PickRandomCards.csproj.CoreCompileInputs.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/bin/Debug/net7.0/PickRandomCards
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/bin/Debug/net7.0/PickRandomCards.deps.json
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/bin/Debug/net7.0/PickRandomCards.runtimeconfig.json
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/bin/Debug/net7.0/PickRandomCards.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/bin/Debug/net7.0/PickRandomCards.pdb
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/obj/Debug/net7.0/PickRandomCards.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/obj/Debug/net7.0/refint/PickRandomCards.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/obj/Debug/net7.0/PickRandomCards.pdb
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/obj/Debug/net7.0/PickRandomCards.genruntimeconfig.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/PickRandomCards/PickRandomCards/obj/Debug/net7.0/ref/PickRandomCards.dll
