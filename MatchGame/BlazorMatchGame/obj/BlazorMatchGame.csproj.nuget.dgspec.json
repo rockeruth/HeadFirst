@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/BlazorMatchGame/BlazorMatchGame.csproj": {}
+    "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/BlazorMatchGame.csproj": {}
   },
   "projects": {
-    "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/BlazorMatchGame/BlazorMatchGame.csproj": {
+    "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/BlazorMatchGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/BlazorMatchGame/BlazorMatchGame.csproj",
+        "projectUniqueName": "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/BlazorMatchGame.csproj",
         "projectName": "BlazorMatchGame",
-        "projectPath": "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/BlazorMatchGame/BlazorMatchGame.csproj",
+        "projectPath": "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/BlazorMatchGame.csproj",
         "packagesPath": "/Users/marietorsnes/.nuget/packages/",
-        "outputPath": "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/BlazorMatchGame/obj/",
+        "outputPath": "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marietorsnes/.nuget/NuGet/NuGet.Config"

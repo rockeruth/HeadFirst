@@ -9,29 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorMatchGame
 build_property.RootNamespace = BlazorMatchGame
-build_property.ProjectDir = /Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/BlazorMatchGame/
+build_property.ProjectDir = /Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/BlazorMatchGame
+build_property.MSBuildProjectDirectory = /Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/marietorsnes/Desktop/usn/C\#/VS/BlazorMatchGame/BlazorMatchGame/App.razor]
+[/Users/marietorsnes/Desktop/usn/C\#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marietorsnes/Desktop/usn/C\#/VS/BlazorMatchGame/BlazorMatchGame/Pages/Index.razor]
+[/Users/marietorsnes/Desktop/usn/C\#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marietorsnes/Desktop/usn/C\#/VS/BlazorMatchGame/BlazorMatchGame/_Imports.razor]
+[/Users/marietorsnes/Desktop/usn/C\#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/marietorsnes/Desktop/usn/C\#/VS/BlazorMatchGame/BlazorMatchGame/Shared/MainLayout.razor]
+[/Users/marietorsnes/Desktop/usn/C\#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-iex2ja64gu
 
-[/Users/marietorsnes/Desktop/usn/C\#/VS/BlazorMatchGame/BlazorMatchGame/Shared/NavMenu.razor]
+[/Users/marietorsnes/Desktop/usn/C\#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0ont98y71x

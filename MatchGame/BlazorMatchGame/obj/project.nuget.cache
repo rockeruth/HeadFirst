@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kwYTj1Av19wljY0oBXHhSWNPZnoD3iZ7s99HRuc3L1dsKXeAnE7cUy3KtpSqt7AOEFDNCTESuXDPm4o7RAeVTQ==",
+  "dgSpecHash": "SWNIT3tPW4NvHZzaPF7Z/d4qMGN4aMAroGvOnrLX4dfO+e0WkY9iLgvZRW+3US6XU+g/3+4iUs4IymA9A7QyQg==",
   "success": true,
-  "projectFilePath": "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/BlazorMatchGame/BlazorMatchGame.csproj",
+  "projectFilePath": "/Users/marietorsnes/Desktop/usn/C#/VS/BlazorMatchGame/MatchGame/BlazorMatchGame/BlazorMatchGame.csproj",
   "expectedPackageFiles": [
     "/Users/marietorsnes/.nuget/packages/microsoft.aspnetcore.authorization/7.0.2/microsoft.aspnetcore.authorization.7.0.2.nupkg.sha512",
     "/Users/marietorsnes/.nuget/packages/microsoft.aspnetcore.components/7.0.2/microsoft.aspnetcore.components.7.0.2.nupkg.sha512",
