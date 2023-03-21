@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{88754873-A807-4C93-80A4-A57C8B13F471}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PickACardBlazor PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PickACardBlazor/CardPicker.cs">
+    <Files>
+      <File FileName="PickACardBlazor/CardPicker.cs" Line="2" Column="26" />
+      <File FileName="PickACardBlazor/Pages/Index.razor" Line="35" Column="11" />
+      <File FileName="PickACardBlazor/Shared/NavMenu.razor" Line="16" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PickACardBlazor" expanded="True">
+            <Node name="PickACardBlazor" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="CardPicker.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
