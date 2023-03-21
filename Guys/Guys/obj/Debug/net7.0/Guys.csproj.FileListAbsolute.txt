@@ -1,0 +1,15 @@
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/obj/Debug/net7.0/Guys.csproj.AssemblyReference.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/obj/Debug/net7.0/Guys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/obj/Debug/net7.0/Guys.AssemblyInfoInputs.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/obj/Debug/net7.0/Guys.AssemblyInfo.cs
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/obj/Debug/net7.0/Guys.csproj.CoreCompileInputs.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/bin/Debug/net7.0/Guys
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/bin/Debug/net7.0/Guys.deps.json
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/bin/Debug/net7.0/Guys.runtimeconfig.json
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/bin/Debug/net7.0/Guys.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/bin/Debug/net7.0/Guys.pdb
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/obj/Debug/net7.0/Guys.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/obj/Debug/net7.0/refint/Guys.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/obj/Debug/net7.0/Guys.pdb
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/obj/Debug/net7.0/Guys.genruntimeconfig.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/Guys/Guys/obj/Debug/net7.0/ref/Guys.dll
