@@ -1,0 +1,15 @@
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/obj/Debug/net7.0/ElephantSwap.csproj.AssemblyReference.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/obj/Debug/net7.0/ElephantSwap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/obj/Debug/net7.0/ElephantSwap.AssemblyInfoInputs.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/obj/Debug/net7.0/ElephantSwap.AssemblyInfo.cs
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/obj/Debug/net7.0/ElephantSwap.csproj.CoreCompileInputs.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/bin/Debug/net7.0/ElephantSwap
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/bin/Debug/net7.0/ElephantSwap.deps.json
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/bin/Debug/net7.0/ElephantSwap.runtimeconfig.json
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/bin/Debug/net7.0/ElephantSwap.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/bin/Debug/net7.0/ElephantSwap.pdb
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/obj/Debug/net7.0/ElephantSwap.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/obj/Debug/net7.0/refint/ElephantSwap.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/obj/Debug/net7.0/ElephantSwap.pdb
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/obj/Debug/net7.0/ElephantSwap.genruntimeconfig.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/ElephantSwap/ElephantSwap/obj/Debug/net7.0/ref/ElephantSwap.dll
