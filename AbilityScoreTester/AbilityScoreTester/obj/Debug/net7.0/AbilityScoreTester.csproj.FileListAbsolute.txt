@@ -1,0 +1,15 @@
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/bin/Debug/net7.0/AbilityScoreTester
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/bin/Debug/net7.0/AbilityScoreTester.deps.json
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/bin/Debug/net7.0/AbilityScoreTester.runtimeconfig.json
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/bin/Debug/net7.0/AbilityScoreTester.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/bin/Debug/net7.0/AbilityScoreTester.pdb
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/obj/Debug/net7.0/AbilityScoreTester.csproj.AssemblyReference.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/obj/Debug/net7.0/AbilityScoreTester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/obj/Debug/net7.0/AbilityScoreTester.AssemblyInfoInputs.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/obj/Debug/net7.0/AbilityScoreTester.AssemblyInfo.cs
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/obj/Debug/net7.0/AbilityScoreTester.csproj.CoreCompileInputs.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/obj/Debug/net7.0/AbilityScoreTester.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/obj/Debug/net7.0/refint/AbilityScoreTester.dll
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/obj/Debug/net7.0/AbilityScoreTester.pdb
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/obj/Debug/net7.0/AbilityScoreTester.genruntimeconfig.cache
+/Users/marietorsnes/Desktop/usn/C#/VS/HeadFirst/AbilityScoreTester/AbilityScoreTester/obj/Debug/net7.0/ref/AbilityScoreTester.dll

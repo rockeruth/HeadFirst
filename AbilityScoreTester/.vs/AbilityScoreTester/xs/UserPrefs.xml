@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9EF53E72-2822-44DA-B3DE-117B6EA5CEAB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbilityScoreTester/AbilityScoreCalculator.cs">
+    <Files>
+      <File FileName="AbilityScoreTester/Program.cs" Line="12" Column="30" />
+      <File FileName="AbilityScoreTester/AmilityScoreCalculator.cs" Line="18" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbilityScoreTester" expanded="True">
+            <Node name="AbilityScoreTester" expanded="True">
+              <Node name="AbilityScoreCalculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>AddAmount</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AbilityScoreTester PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
