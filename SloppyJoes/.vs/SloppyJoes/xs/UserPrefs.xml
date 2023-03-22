@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3F735C7C-0A95-4F83-81D5-91FC1EF00250}|https">
+  <MonoDevelop.Ide.ItemProperties.SloppyJoes PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SloppyJoes/Pages/Index.razor">
+    <Files>
+      <File FileName="SloppyJoes/MenuItem.cs" Line="6" Column="17" />
+      <File FileName="SloppyJoes/Pages/Index.razor" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SloppyJoes" expanded="True">
+            <Node name="SloppyJoes" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
