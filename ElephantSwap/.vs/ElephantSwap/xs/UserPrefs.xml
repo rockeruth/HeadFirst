@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{95B1E71C-8DFC-446A-8FA9-2834AF7D38FB}|Default">
-  <MonoDevelop.Ide.ItemProperties.ElephantSwap FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ElephantSwap PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElephantSwap/Program.cs">
+    <Files>
+      <File FileName="ElephantSwap/Program.cs" Line="39" Column="33" />
+      <File FileName="ElephantSwap/Elephant.cs" Line="22" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ElephantSwap" expanded="True">
+            <Node name="ElephantSwap" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
