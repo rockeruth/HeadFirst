@@ -1,0 +1,15 @@
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/obj/Debug/net7.0/Hi-Lo.csproj.AssemblyReference.cache
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/obj/Debug/net7.0/Hi-Lo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/obj/Debug/net7.0/Hi-Lo.AssemblyInfoInputs.cache
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/obj/Debug/net7.0/Hi-Lo.AssemblyInfo.cs
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/obj/Debug/net7.0/Hi-Lo.csproj.CoreCompileInputs.cache
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/bin/Debug/net7.0/Hi-Lo
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/bin/Debug/net7.0/Hi-Lo.deps.json
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/bin/Debug/net7.0/Hi-Lo.runtimeconfig.json
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/bin/Debug/net7.0/Hi-Lo.dll
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/bin/Debug/net7.0/Hi-Lo.pdb
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/obj/Debug/net7.0/Hi-Lo.dll
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/obj/Debug/net7.0/refint/Hi-Lo.dll
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/obj/Debug/net7.0/Hi-Lo.pdb
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/obj/Debug/net7.0/Hi-Lo.genruntimeconfig.cache
+/Users/marietorsnes/Desktop/Programvareutvikling/HeadFirst/Hi-Lo/Hi-Lo/obj/Debug/net7.0/ref/Hi-Lo.dll
